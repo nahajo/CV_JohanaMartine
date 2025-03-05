@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
