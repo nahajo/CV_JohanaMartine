@@ -1,29 +1,27 @@
-# CV_Example
-# Hoja de Vida
+# CV kelly carvajal
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+**Profesión: integracion en operaciones logistica.
 
+Soy estudiante del programa de Integración en Logística, con conocimientos en recepción y recibo de mercancía, así como en servicio al cliente. Me destaco por ser organizada, proactiva y tener habilidades de comunicación que facilitan una gestión eficiente de los procesos logísticos. Busco oportunidades para aplicar mis conocimientos y seguir desarrollándome en el sector.
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** carvajalmartinezkellyjohana@gmail.com
+  
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### empresa manufacturas eliot 2025
+- 
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa wok restaurante de comida asiatica 2024
+- servicio al cliente
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
-## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+### sena 2025
+colprovida bachiller 2019
+academico
+## 💡atencion al detalle.
+- **trabajo en equipo.
+- **habilidad de comunicacion.
+- **organizacion y planificacion.
 
 ---
 
